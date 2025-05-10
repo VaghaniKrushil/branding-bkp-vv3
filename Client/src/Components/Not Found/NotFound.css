@@ -1,0 +1,17 @@
+
+.container {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Poppins", sans-serif;
+  text-align: center;
+}
+
+.wrong-para {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+  color: #092532;
+  text-align: center;
+}

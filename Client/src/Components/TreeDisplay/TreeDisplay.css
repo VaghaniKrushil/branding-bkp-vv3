@@ -1,0 +1,19 @@
+/* TreeDisplay.css  */
+.tree-node-text {
+    font-size: 15px;
+    fill: black;
+    text-anchor: middle;
+    font-weight: 1;
+     /* font-family: 'Roboto', sans-serif;  */
+    letter-spacing: 2px;
+  }
+  
+  .tree-referral-id {
+    font-size: 12px; 
+    fill: black; 
+    text-anchor: middle;
+    font-weight: 10; 
+     /* font-family: Arial, sans-serif;  */
+    letter-spacing: 2px; 
+  }
+  
